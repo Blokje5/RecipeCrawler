@@ -1,0 +1,191 @@
+{
+    "@context": "https:\/\/schema.org",
+    "@type": "Recipe",
+    "@id": "https:\/\/www.tasteofhome.com\/recipes\/best-lasagna\/",
+    "name": "Best Lasagna",
+    "prepTime": "PT60M",
+    "cookTime": "PT50M",
+    "totalTime": "PT01H50M",
+    "image": [
+        "https:\/\/tmbidigitalassetsazure.blob.core.windows.net\/secure\/RMS\/attachments\/37\/1200x1200\/Best-Lasagna_exps36333__TH133086D07_23_6b_RMS.jpg",
+        [
+            "https:\/\/cdn3.tmbi.com\/toh\/GoogleImages\/Best-Lasagna_exps36333__TH133086D07_23_6b_RMS.jpg"
+        ],
+        [
+            "https:\/\/cdn3.tmbi.com\/toh\/GoogleImagesPostCard\/Best-Lasagna_exps36333__TH133086D07_23_6b_RMS.jpg"
+        ]
+    ],
+    "recipeCategory": [
+        "Budget Ground Beef Recipes",
+        "Comfort Food Dinner Recipes",
+        "Comfort Food Recipes",
+        "Italian Dinners",
+        "Italian Recipes",
+        "Christmas Dinner Recipes",
+        "Dinner Recipes",
+        "Ground Beef Dinner Recipes",
+        "Lasagna Dinners",
+        "Pasta &amp; Sauces",
+        "Sausage Dinner Recipes",
+        "Christmas Main Dish Recipes",
+        "Christmas Recipes",
+        "New Year's Dinner Recipes",
+        "New Year's Recipes",
+        "Beef Main Dishes",
+        "Beef Recipes",
+        "Cheese Recipes",
+        "Ground Beef Lasagna Recipes",
+        "Ground Beef Pasta Recipes",
+        "Ground Beef Recipes",
+        "Lasagna Recipes",
+        "Pasta Dinners",
+        "Pasta Recipes",
+        "Tomato Recipes",
+        "All Taste of Home Magazine Recipes",
+        "Taste of Home Magazine Dinner Recipes",
+        "Taste of Home Magazine Recipes",
+        "Baked Pasta",
+        "Potluck Dinner Recipes",
+        "Potluck Recipes"
+    ],
+    "description": "Want to know how to make lasagna for a casual holiday meal? You can't go wrong with this deliciously rich meat lasagna recipe. My grown sons and daughter-in-law request it for their birthdays, too. &mdash;Pam Thompson, Girard, Illinois",
+    "recipeIngredient": [
+        "9 lasagna noodles",
+        "1-1\/4 pounds Johnsonville&reg; Ground Mild Italian sausage",
+        "3\/4 pound ground beef",
+        "1 medium onion, diced",
+        "3 garlic cloves, minced",
+        "2 cans (one 28 ounces, one 15 ounces) crushed tomatoes",
+        "2 cans (6 ounces each) tomato paste",
+        "2\/3 cup water",
+        "2 to 3 tablespoons sugar",
+        "3 tablespoons plus 1\/4 cup minced fresh parsley, divided",
+        "2 teaspoons dried basil",
+        "3\/4 teaspoon fennel seed",
+        "3\/4 teaspoon salt, divided",
+        "1\/4 teaspoon coarsely ground pepper",
+        "1 large egg, lightly beaten",
+        "1 carton (15 ounces) ricotta cheese",
+        "4 cups shredded part-skim mozzarella cheese",
+        "3\/4 cup grated Parmesan cheese"
+    ],
+    "recipeInstructions": "Cook noodles according to package directions; drain. Meanwhile, in a Dutch oven, cook sausage, beef and onion over medium heat 8-10 minutes or until meat is no longer pink, breaking up meat into crumbles. Add garlic; cook 1 minute. Drain., Stir in tomatoes, tomato paste, water, sugar, 3 tablespoons parsley, basil, fennel, 1\/2 teaspoon salt and pepper; bring to a boil. Reduce heat; simmer, uncovered, 30 minutes, stirring occasionally., In a small bowl, mix egg, ricotta cheese, and remaining parsley and salt., Preheat oven to 375&deg;. Spread 2 cups meat sauce into an ungreased 13x9-in. baking dish. Layer with three noodles and a third of the ricotta mixture. Sprinkle with 1 cup mozzarella cheese and 2 tablespoons Parmesan cheese. Repeat layers twice. Top with remaining meat sauce and cheeses (dish will be full)., Bake, covered, 25 minutes. Bake, uncovered, 25 minutes longer or until bubbly. Let stand 15 minutes before serving.",
+    "recipeYield": "12 servings.",
+    "author": {
+        "@type": "Organization",
+        "name": "Taste of Home"
+    },
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": " 519 calories",
+        "fatContent": "27g fat (13g saturated fat)",
+        "cholesterolContent": "109mg cholesterol",
+        "sodiumContent": "1013mg sodium",
+        "carbohydrateContent": "35g carbohydrate (10g sugars",
+        "fiberContent": "4g fiber)",
+        "proteinContent": "35g protein. "
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.68",
+        "reviewCount": 58,
+        "ratingCount": 57
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "description": "A classic, strong lasagna.  I made as written, no adjustments, and it came out wonderful!",
+            "dateCreated": "10\/02\/2018 14:34",
+            "author": {
+                "@type": "Person",
+                "name": "justmbeth"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "I cooked it into an english oven instead of dutch, did not taste right.",
+            "dateCreated": "09\/26\/2018 18:21",
+            "author": {
+                "@type": "Person",
+                "name": "Eli"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "Whoever submitted this recipe deserves high honors and awards galore!! The sauce is what makes or breaks the flavor of a pasta dish. This meat sauce is the best that I have ever eaten, never the less fixed myself, and the absolute first recipe I ever wanted to rate. The only adjustment I made was I used a 25oz can of diced tomatoes that already had garlic, basil and oregano in it. It was the only large can of tomatoes I had in the pantry and I didn\u2019t want to make a trip back to the store. I still used the seasonings and amount listed for the recipe and I had the reg diced tomatoes in the 15oz can. I don\u2019t know how much of a difference it actually made, but the meat sauce itself was excellent. I read all the reviews before I cooked this and I absolutely have to agree with the reviewer who stressed to make sure you simmer the sauce for the full 30 minutes. Not only are the seasonings blending but it also helps the sauce to thicken. I\u2019m one who really doesn\u2019t like sugar in pasta sauce, but stick to this recipe! I used a little over 2 tablespoons and it didn\u2019t make the sauce taste sweet. If anything it balanced the overall flavor. For this to be the Best Lasagna that you will ever make - stick to the recipe! No extra salt needed!! At least for the first time you try this recipe - don\u2019t change a thing if you don\u2019t have to. Follow the directions exactly. Then the next time if you honestly feel you need to change something - do it then. I just doubt you\u2019ll change anything - it\u2019s that spectacular!!! Thanks for this recipe!!!!!",
+            "dateCreated": "06\/12\/2018 23:14",
+            "author": {
+                "@type": "Person",
+                "name": "Gina"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "I used all ingredients except for the tomato sauce, crushed tomatoes and water.  I decided to use a jar of Newman's Own Italian Sausage & Peppers pasta sauce Instead.  I used a 9x9 baking dish, which was just enough for myself and my husband.  1lb of ground beef and 1lb of mild Italian sausage was a perfect balance.  This Was definitely MY BEST LASAGNA!!! 5 stars for me ??",
+            "dateCreated": "04\/29\/2018 23:31",
+            "author": {
+                "@type": "Person",
+                "name": "Deborah"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "Family loves it",
+            "dateCreated": "04\/23\/2018 19:31",
+            "author": {
+                "@type": "Person",
+                "name": "Sharmalee"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "This is really a great basic lasagna recipe. I gave it a 4 because I made a few small adjustments that I think enhanced the dish. First, more salt. I find most online recipes to be under seasoned. I typically cook my noodles in heavily salted water but I used \"oven ready\" noodles so I needed extra salt. Also, homemade tomato sauces always need extra salt. Also, I threw in a small pinch of red pepper flakes. I dislike spicy sensation but I find red pepper flakes just kicks up the flavor a notch. I LOVED how this this lasagna was, how it held up when cut and serves, and how thick and meaty everything was. LOVE the amount of cheese! We fed 4 adults and 5 kids with 3 large leftover portions with this!",
+            "dateCreated": "04\/18\/2018 13:44",
+            "author": {
+                "@type": "Person",
+                "name": "Lauren"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "its taste like poo",
+            "dateCreated": "04\/17\/2018 13:57",
+            "author": {
+                "@type": "Person",
+                "name": "axel"
+            },
+            "itemReviewed": {
+                "@type": "Thing",
+                "name": "Best Lasagna"
+            }
+        },
+        {
+            "@type": "Review",
+            "description": "I just made this lasagna and my whole family loved it.I will definitely be making it soon. Excellent",
+        }
+    ]
+}
