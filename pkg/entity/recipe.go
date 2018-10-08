@@ -1,7 +1,7 @@
 package entity
 
 // TODO add reviews as well
-type Recipe struct {
+type RecipeMetaData struct {
 	name string
 	originalUrl string
 	prepTimeRaw string

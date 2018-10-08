@@ -2,31 +2,32 @@ package main
 
 import (
 	"fmt"
+	"strings"
 	"github.com/gocolly/colly"
 )
 
 func main() {
-	// Instantiate default collector
 	c := colly.NewCollector(
-		// Visit only domains: hackerspaces.org, wiki.hackerspaces.org
-		colly.AllowedDomains("hackerspaces.org", "wiki.hackerspaces.org"),
+		colly.AllowedDomains("www.tasteofhome.com", "tasteofhome.com"),
+
+		colly.CacheDir("./tasteofhome"),
 	)
 
-	// On every a element which has href attribute call callback
 	c.OnHTML("a[href]", func(e *colly.HTMLElement) {
 		link := e.Attr("href")
-		// Print link
-		fmt.Printf("Link found: %q -> %s\n", e.Text, link)
-		// Visit link found on page
-		// Only those links are visited which are in AllowedDomains
-		c.Visit(e.Request.AbsoluteURL(link))
+
+		// Filter anything that does not start with /recipes
+		strippedLink := strings.Replace(link, "https://www.tasteofhome.com", "", 1)
+		if !strings.HasPrefix(strippedLink, "/recipes") { // TODO implement as URL filters
+			return
+		}
+		
+		e.Request.Visit(e.Request.AbsoluteURL(link))
 	})
 
-	// Before making a request print "Visiting ..."
-	c.OnRequest(func(r *colly.Request) {
-		fmt.Println("Visiting", r.URL.String())
+	c.OnHTML("script[type='application/ld+json']", func(e *colly.HTMLElement) {
+		fmt.Println("object: ", e)
 	})
 
-	// Start scraping on https://hackerspaces.org
-	c.Visit("https://hackerspaces.org/")
+	c.Visit("https://www.tasteofhome.com/recipes/")
 }
