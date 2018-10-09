@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"strings"
 	"github.com/gocolly/colly"
+	"strings"
 )
 
 func main() {
@@ -21,7 +21,7 @@ func main() {
 		if !strings.HasPrefix(strippedLink, "/recipes") { // TODO implement as URL filters
 			return
 		}
-		
+
 		e.Request.Visit(e.Request.AbsoluteURL(link))
 	})
 
