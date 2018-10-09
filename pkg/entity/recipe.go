@@ -1,9 +1,9 @@
 package entity
 
-// TODO add reviews as well
+// RecipeMetaData encapsulates the ld+json scripts on the website to retrieve recipe information
 type RecipeMetaData struct {
 	name         string
-	originalUrl  string
+	originalURL  string
 	prepTimeRaw  string
 	cookTimeRaw  string
 	totalTimeRaw string
